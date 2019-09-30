@@ -1,0 +1,38 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%;
+  max-width: 760px;
+  background: #D1EEEE;
+}
+h1 {
+  font-size: 1.6em;
+  border; inset 10px #ff0000;
+  padding: 4px;
+  background: lightgray;
+}
+
+h2 {
+  border-style: solid;
+  border-width: 1px 16px 6px 1px;
+  border-color: #8888cc;
+  padding: 3px;
+  background-coler: #eeeeff;
+  background: linear-gradient(to right, #ffffff 50%, #8888cc 80%);
+  /*background: lightyellow; */
+}
+
+h3 {
+  border: inset 3px black;
+  padding: 3px;
+  background: rightgray;
+}
+
+img {
+  max-width: 100%;
+}
+
+li:first-letter {
+  font-weight: bold;
+  color: blue;
+}
